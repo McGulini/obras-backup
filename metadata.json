@@ -1,0 +1,11 @@
+{
+  "name": "App Sinalização Gestão de Equipes e Obras",
+  "description": "Sistema integrado de gestão e acompanhamento de equipes de campo por obras, relatórios diários de atividades (RDO), controle de ocorrências e painel administrativo.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
